@@ -1,0 +1,237 @@
+    1  pwd
+    2  cd desktop/
+    3  mkdir githubIntro
+    4  ls
+    5  cd githubIntro
+    6  pwd
+    7  cd Desktop/
+    8  mkdir Github-sample
+    9  cd Github-sample
+   10  ls
+   11  ls -a
+   12  git clone https://github.com/abhi230699/Github-sample
+   13  ls Github-sample
+   14  touch hello.txt
+   15  ls
+   16  echo {1..10}
+   17  echo {1..10}
+   18  echo {1..10}>>hello.txt
+   19  cat hello.txt
+   20  echo {a..z}
+   21  echo 10{a-z}
+   22  echo 10{a..z}
+   23  ls
+   24  nano hello.txt
+   25  cat hello.txt
+   26  nano hello.txt
+   27  cat hello.txt
+   28  ls
+   29  cat hello.txt
+   30  cat hello.txt
+   31  git config user.name Abhishek
+   32  git config user.name abhishek
+   33  git config user.name abhi
+   34  git init
+   35  git config user.name abhishek
+   36  git config user.email abhisheknaidumuddala@gmail.com
+   37  ls
+   38  touch hello2.txt
+   39  git status
+   40  git remote https://github.com/abhi230699/Github-sample
+   41  git clone https://github.com/abhi230699/Github-sample
+   42  git clone https://github.com/abhi230699/Github-sample
+   43  git clone https://github.com/abhi230699/Github-sample
+   44  git remote https://github.com/abhi230699/Github-sample
+   45  git status
+   46  git add *
+   47  git status
+   48  commit
+   49  git --version
+   50  pwd
+   51  ls
+   52  ls -a
+   53  version --a
+   54  version --
+   55  pwd
+   56  ls
+   57  ls --a
+   58  ls -a
+   59  clear
+   60  cd Raptor
+   61  ls
+   62  cd abhishek
+   63  cd Abhi
+   64  cd Abhishek
+   65  cd Git Bash
+   66  cd Steam
+   67  cd steam
+   68  mkdir Raptor
+   69  cd Raptor
+   70  cd ..
+   71  cd Raptor
+   72  cd
+   73  cd ICS
+   74  cd essay
+   75  cd Desktop/
+   76  mkdir AIandML
+   77  ls
+   78  cd AIandML
+   79  touch Data.txt
+   80  ls
+   81  cat Data.txt
+   82  echo "AIandML" >Data.txt
+   83  cat Data.txt
+   84  gedit Data.txt
+   85  nano Data.txt
+   86  nano Data.txt
+   87  cat Data.txt
+   88  nano Txt.txt
+   89  cat Txt.txt
+   90  rm Txt.txt
+   91  ls
+   92  rm -d <DirName>
+   93  rmdir <DirName>
+   94  rm Txt.txt
+   95  cd Desktop/AIandML
+   96  git init
+   97  git status
+   98  git add Data.txt
+   99  git status
+  100  git commit -m "First Commit"
+  101  git config --global user.email 'abhisheknaidumuddala@gmail.com'
+  102  git config user.email
+  103  git config user.name
+  104  git status
+  105  nan0 Data.txt
+  106  nano Data.txt
+  107  git status
+  108  git add Data.txt
+  109  git commit -m "Second Commit"
+  110  git log
+  111  mkdir Adv-prog-AIandML-
+  112  ls
+  113  git remote -help
+  114  git remote add Adv-prog-AIandML- https://github.com/abhi230699/Adv-prog-AIandML-/edit/master/README.md
+  115  git remote show
+  116  git remote -v
+  117  git pull Adv-prog-AIandML- master
+  118  git pull Adv-prog-AIandML- 
+  119  git pull Adv-prog-AIandML- master
+  120  git pull Adv-prog-AIandML-
+  121  git pull Adv-prog-AIandML- master
+  122  git pull Adv-prog master
+  123  git pull Adv-prog-AIandML- master
+  124  ls
+  125  git pull Adv-prog-AIandML- master
+  126  git pull Adv-prog-AIandML-  master
+  127  git pull Adv-prog-AIandML-master
+  128  git push -u Adv-prog-AIandML-
+  129  git push --set-upstream Adv-prog-AIandML- master
+  130  git push --set-upstream Adv-prog-AIandML- README.md
+  131  git push --set-upstream Adv-prog-AIandML- md
+  132  git push --set-upstream Adv-prog-AIandML- README
+  133  git push --set-upstream Adv-prog-AIandML- README
+  134  git remote add Adv-prog-AIandML- https://github.com/abhi230699/Adv-prog-AIandML-
+  135  git remote show
+  136  git push --set-upstream Adv-prog-AIandML- 
+  137   git push --set-upstream Adv-prog-AIandML- master
+  138  mkdir Adv-prog
+  139  git remote add Adv-prog https://github.com/abhi230699/Adv-prog-AIandML-
+  140  git remote show
+  141  git remote -v
+  142   git push --set-upstream Adv-prog master
+  143   git push --set-upstream Adv-prog master
+  144   git push --set-upstream Adv-prog-AIandML- master
+  145   git push --set-upstream Adv-prog-AIandML- (master)
+  146   git push --set-upstream Adv-prog-AIandML- (master)
+  147  ls
+  148  git remote add Adv-prog-AIandML-
+  149  git add .
+  150  git commit
+  151  git commit -m"Done"
+  152  git push
+  153  git push Data.txt
+  154  git push origin master
+  155  git remote add Adv-prog-AIandML master
+  156   git push --set-upstream Adv-prog-AIandML master
+  157   git push --set-upstream Data.txt master
+  158  clear
+  159  mkdir Adv-prog-AIandML
+  160  ls
+  161  git remote -help
+  162  git remote add Adv-prog-AIandML https://github.com/abhi230699/Adv-prog-AIandML
+  163  ls
+  164  remote show
+  165  git remote show 
+  166  git remote -v
+  167  git pull Adv-prog-AIandML master
+  168  git pull Adv-prog-AIandML 
+  169  git init
+  170  git status
+  171  git add data.txt
+  172  git add Data.txt
+  173  pwd
+  174  ls
+  175  ls -a
+  176  clear
+  177  cd Desktop/
+  178  ls
+  179  clear
+  180  cd Raptor
+  181  cd Desktop/
+  182  clear
+  183  cd Desktop/
+  184  mkdir AIandML
+  185  mkdir AIANDML
+  186  mkdir MLandAI
+  187  ls
+  188  cd MLandAI
+  189  cd MLandAI/
+  190  touch Data.txt
+  191  ls
+  192  cat Data.txt
+  193  echo "MLandAI" > Data.txt
+  194  cat Data.txt
+  195  gedit Data.txt
+  196  nano Data.txt
+  197  cat Data.txt
+  198  nano Data.txt
+  199  y
+  200  ls
+  201  nano test.txt
+  202  cat test.txt
+  203  rm test.txt
+  204  ls
+  205  rm -d <DirName>
+  206  cd Desktop/MlandAI/
+  207  cd Desktop/MlandAI
+  208  cd MlandAI
+  209  cd MLandAI
+  210  cd Desktop/MLandAI
+  211  cd Desktop/MLandAI/
+  212  git init
+  213  git status
+  214  git add Data.txt
+  215  git status
+  216  git commit -m "First Commit"
+  217  git config user.email
+  218  git config user.name
+  219  git status
+  220  git add Data.txt
+  221  git commit -m "Second Commit"
+  222  git log
+  223  git log
+  224  mkdir MLandAI-Advprog
+  225  git remote -help
+  226  git remote add MLandAI-Advprog https://github.com/abhi230699/MLandAI-Advprog
+  227  git remote show
+  228  git remote -v
+  229  git pull MLandAI-Advprog master
+  230  git push -u MLandAI-Advprog
+  231  git push --set-upstream MLandAI-Advprog master
+  232  git push --set-upstream MLandAI-Advprog master
+  233  git push -f --set-upstream MLandAI-Advprog master
+  234  history
+  235  history 377-453 > gitCommands.txt
+  236  history [377-453] > gitCommands.txt
+  237  history 453 > gitCommnds.txt
